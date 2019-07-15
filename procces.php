@@ -73,7 +73,7 @@
 
 		$mysqli->query("UPDATE data SET name='$name', asal='$asal', jkel='$jkel', pekerjaan='$pekerjaan' email='$email' WHERE id=$id");
 
-		header('location: '.'index.php');
+		header('location: '.'regist.html');
 	}
 	
 ?>

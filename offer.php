@@ -19,7 +19,7 @@
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">ViPeeS</a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="index.php">Sewa Server</a></li>
+        <li><a href="regist.php">Sewa Server</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
